@@ -1,0 +1,10 @@
+Enter a string (or 'END' to quit): Extracted IPv4 address: 192.168.1.1 (decimal value: 3232235777, port: none)
+Enter a string (or 'END' to quit): Extracted IPv4 address: 10.0.0.255 (decimal value: 167772415, port: 8080)
+Enter a string (or 'END' to quit): Extracted IPv4 address: 168.1.1.1 (decimal value: 2818638081, port: none)
+Enter a string (or 'END' to quit): Invalid input: no valid IPv4 address found
+Enter a string (or 'END' to quit): Extracted IPv4 address: 192.168.1.1 (decimal value: 3232235777, port: none)
+Enter a string (or 'END' to quit): Invalid input: no valid IPv4 address found
+Enter a string (or 'END' to quit): Invalid input: no valid IPv4 address found
+Enter a string (or 'END' to quit): Invalid input: no valid IPv4 address found
+Enter a string (or 'END' to quit): Invalid input: no valid IPv4 address found
+Enter a string (or 'END' to quit): Program terminated.

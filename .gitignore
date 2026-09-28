@@ -1,0 +1,15 @@
+# Build output
+ipv4
+test_runner
+*.o
+*.dSYM/
+
+# macOS
+.DS_Store
+
+# Local reference only; not part of the submission
+docs/ASSIGNMENT.md
+
+# AI disclosure log: kept local while in progress. Remove this line before the
+# final push, once the student has revised it for submission.
+docs/AI_DISCLOSURE.md
